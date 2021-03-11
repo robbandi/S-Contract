@@ -1,0 +1,31 @@
+html * {
+    text-align: center;
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    /* position: relative; */
+    /* top: 20px; */
+}
+
+/* .col-lg-12 {
+    text-align: center;
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 300px;
+} */
+
+
+button {
+    color: black;
+}
+
+.container {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+#content {
+    text-align: center;
+}
